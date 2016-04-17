@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Language_List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Translation>
+    <Tense key="0" english="Play" spanish="Jugar" catalan="Jugar" galician="Xogar" />
+    <Tense key="1" english="Credits" spanish="Creditos" catalan="Credits" galician="Creditos" />
+  </Translation>
+</Language_List>
